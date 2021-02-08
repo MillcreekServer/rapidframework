@@ -10,7 +10,7 @@ buildscript {
     }
     dependencies {
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
-        classpath 'org.yaml:snakeyaml:1.8'
+        classpath 'org.yaml:snakeyaml:1.27'
         classpath 'com.github.jengelman.gradle.plugins:shadow:6.0.0'
     }
 }
