@@ -24,7 +24,7 @@ group = 'io.github.wysohn'
 version = '3.16.2'
 
 ext {
-    bukkit_version = '1.15.2-R0.1-SNAPSHOT'
+    bukkit_version = '1.16.3-R0.1-SNAPSHOT'
     spark_version = '2.9.2'
 
     plugin_version = version
